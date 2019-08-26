@@ -93,7 +93,7 @@ thirdSpeed: [{name: 'Speed', data: thirdSpeed}]
 }
 
 render() {
-  console.log(this.state.options2)
+  
       return (<div>
 				<Chart className="chart1"
       options = {this.state.options}

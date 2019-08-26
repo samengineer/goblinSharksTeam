@@ -78,8 +78,8 @@ const allData = {
   ]
 };
 
-const chart1 = [];
-const chart2 = [];
+// const chart1 = [];
+// const chart2 = [];
   //  const data = resolverDataArray.map((element) => element.name)
     
   // })
